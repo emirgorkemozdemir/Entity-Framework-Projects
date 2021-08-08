@@ -1,0 +1,85 @@
+﻿<Window x:Class="Wpf_Entity_Framework_example.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Entity_Framework_example"
+        mc:Ignorable="d"
+        Title="MainWindow" Loaded="Window_Loaded" FontFamily="Bahnschrift" Height="450" Width="800" AllowsTransparency="True" WindowStyle="None" MouseDown="Window_MouseDown">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*">
+                
+            </ColumnDefinition>
+
+            <ColumnDefinition Width="3*">
+                
+            </ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Border Background="#8D68B6" Grid.Column="0">
+            <StackPanel HorizontalAlignment="Center" Orientation="Vertical">
+                <Label HorizontalAlignment="Center" Content="WPF EF EXAMPLE"></Label>
+
+                <Button Foreground="WhiteSmoke"  Content="Öğrenci Ekle" BorderThickness="0" Background="#4A4A4A" Margin="0,20,0,0" HorizontalAlignment="Center" Width="120" Height="30" Click="Button_Click">
+
+                </Button>
+
+                <Button  Foreground="WhiteSmoke" Content="Öğrenci Düzenle" BorderThickness="0" Background="#4A4A4A" Margin="0,20,0,0" HorizontalAlignment="Center" Width="120" Height="30">
+
+                </Button>
+
+                <Button x:Name="btnExit"  Foreground="WhiteSmoke"  Content="Çıkış yap" BorderThickness="0" Background="#4A4A4A" Margin="0,20,0,0" HorizontalAlignment="Center" Width="120" Height="30" Click="btnExit_Click" Cursor="Hand"/>
+            </StackPanel>
+            
+         
+        </Border>
+
+        <Border Grid.Column="1" Background="#4A4A4A">
+            <StackPanel Orientation="Vertical">
+                <StackPanel Margin="0,0,0,0">
+                    <DataGrid Height="250px" Name="datagrid" SelectionChanged="datagrid_SelectionChanged"/>
+
+                
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <StackPanel Margin="0,0,100,0" Orientation="Vertical">
+                        <Button  Foreground="WhiteSmoke" Content="Öğrenci Sil" BorderThickness="0" Background="#8D68B6" Margin="0,20,0,0" HorizontalAlignment="Center" Width="120" Height="30" Click="Button_Click_1">
+
+
+
+                        </Button>
+
+                      
+                    </StackPanel>
+
+                       
+                            
+                        <StackPanel Orientation="Horizontal">
+                        <StackPanel Orientation="Vertical">
+                            <TextBox Width="250px" Height="20px" Margin="0,10,0,10" x:Name="tboxName"></TextBox>
+                            <TextBox Width="250px" Height="20px" Margin="0,10,0,10" x:Name="tboxSurname"></TextBox>
+                            <PasswordBox Width="250px" Height="20px" Margin="0,10,0,10" x:Name="tboxPassword"></PasswordBox>
+                            <TextBox Width="250px" Height="20px" Margin="0,10,0,10" x:Name="tboxMail"></TextBox>
+                            <TextBox  Width="250px" Height="20px" Margin="0,10,0,10" x:Name="tboxSchoolNo"></TextBox>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Vertical">
+                            <Button  Foreground="WhiteSmoke" Content="Öğrenci Düzenle" BorderThickness="0" Background="#8D68B6" Margin="0,20,0,0" HorizontalAlignment="Center" Width="120" Height="30" Click="Button_Click_2">
+                            </Button>
+                        </StackPanel>
+                    </StackPanel>
+                     
+
+                           
+                     
+                  
+                 
+                </StackPanel>
+            </StackPanel>
+        
+
+        </Border>
+    </Grid>
+</Window>

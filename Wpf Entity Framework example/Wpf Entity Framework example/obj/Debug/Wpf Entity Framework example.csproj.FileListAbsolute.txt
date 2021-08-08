@@ -1,0 +1,31 @@
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\bin\Debug\Wpf Entity Framework example.exe.config
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\bin\Debug\Wpf Entity Framework example.exe
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\bin\Debug\Wpf Entity Framework example.pdb
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\obj\Debug\Wpf Entity Framework example.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\obj\Debug\MainWindow.g.cs
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\obj\Debug\App.g.cs
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\obj\Debug\Wpf Entity Framework example_MarkupCompile.cache
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\obj\Debug\Wpf Entity Framework example_MarkupCompile.lref
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\obj\Debug\MainWindow.baml
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\obj\Debug\Wpf Entity Framework example.g.resources
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\obj\Debug\Wpf_Entity_Framework_example.Properties.Resources.resources
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\obj\Debug\Wpf Entity Framework example.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\obj\Debug\Wpf Entity Framework example.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\obj\Debug\Wpf Entity Framework example.exe
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\obj\Debug\Wpf Entity Framework example.pdb
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\bin\Debug\BusniessLogicLayer.dll
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\bin\Debug\DataAccessLayer.dll
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\bin\Debug\EntityFramework.dll
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\bin\Debug\EntityLayer.dll
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\bin\Debug\BusniessLogicLayer.pdb
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\bin\Debug\BusniessLogicLayer.dll.config
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\bin\Debug\DataAccessLayer.pdb
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\bin\Debug\DataAccessLayer.dll.config
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\bin\Debug\EntityLayer.pdb
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\bin\Debug\EntityLayer.dll.config
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\bin\Debug\EntityFramework.xml
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\obj\Debug\Wpf Entity Framework example.csproj.CopyComplete
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\obj\Debug\AddStudent.g.cs
+C:\Users\ACER\source\repos\Wpf Entity Framework example\Wpf Entity Framework example\obj\Debug\AddStudent.baml

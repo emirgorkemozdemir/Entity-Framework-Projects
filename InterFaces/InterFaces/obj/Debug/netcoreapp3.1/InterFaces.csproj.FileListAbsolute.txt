@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\InterFaces\InterFaces\bin\Debug\netcoreapp3.1\InterFaces.exe
+C:\Users\ACER\source\repos\InterFaces\InterFaces\bin\Debug\netcoreapp3.1\InterFaces.deps.json
+C:\Users\ACER\source\repos\InterFaces\InterFaces\bin\Debug\netcoreapp3.1\InterFaces.runtimeconfig.json
+C:\Users\ACER\source\repos\InterFaces\InterFaces\bin\Debug\netcoreapp3.1\InterFaces.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\InterFaces\InterFaces\bin\Debug\netcoreapp3.1\InterFaces.dll
+C:\Users\ACER\source\repos\InterFaces\InterFaces\bin\Debug\netcoreapp3.1\InterFaces.pdb
+C:\Users\ACER\source\repos\InterFaces\InterFaces\obj\Debug\netcoreapp3.1\InterFaces.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\InterFaces\InterFaces\obj\Debug\netcoreapp3.1\InterFaces.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\InterFaces\InterFaces\obj\Debug\netcoreapp3.1\InterFaces.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\InterFaces\InterFaces\obj\Debug\netcoreapp3.1\InterFaces.AssemblyInfo.cs
+C:\Users\ACER\source\repos\InterFaces\InterFaces\obj\Debug\netcoreapp3.1\InterFaces.dll
+C:\Users\ACER\source\repos\InterFaces\InterFaces\obj\Debug\netcoreapp3.1\InterFaces.pdb
+C:\Users\ACER\source\repos\InterFaces\InterFaces\obj\Debug\netcoreapp3.1\InterFaces.genruntimeconfig.cache

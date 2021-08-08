@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TorosDTBModelStoreContainer" CdmEntityContainer="TorosDTBEntities">
+    <EntitySetMapping Name="ÖrnekKitapListesi">
+      <EntityTypeMapping TypeName="TorosDTBModel.ÖrnekKitapListesi">
+        <MappingFragment StoreEntitySet="ÖrnekKitapListesi">
+          <ScalarProperty Name="Sıra" ColumnName="Sıra" />
+          <ScalarProperty Name="KitapAdı" ColumnName="KitapAdı" />
+          <ScalarProperty Name="Yazar" ColumnName="Yazar" />
+          <ScalarProperty Name="Yayınevi" ColumnName="Yayınevi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

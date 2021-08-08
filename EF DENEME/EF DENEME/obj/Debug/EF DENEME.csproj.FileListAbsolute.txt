@@ -1,0 +1,24 @@
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\bin\Debug\EF DENEME.exe.config
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\bin\Debug\EF DENEME.exe
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\bin\Debug\EF DENEME.pdb
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\bin\Debug\BusniessLogicLayer.dll
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\bin\Debug\EntityFramework.dll
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\bin\Debug\EntityLayer.dll
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\bin\Debug\DataAccessLayer.dll
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\bin\Debug\BusniessLogicLayer.pdb
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\bin\Debug\BusniessLogicLayer.dll.config
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\bin\Debug\EntityLayer.pdb
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\bin\Debug\EntityLayer.dll.config
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\bin\Debug\EntityFramework.xml
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\bin\Debug\DataAccessLayer.pdb
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\bin\Debug\DataAccessLayer.dll.config
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\obj\Debug\EF DENEME.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\obj\Debug\EF_DENEME.Form1.resources
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\obj\Debug\EF_DENEME.Properties.Resources.resources
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\obj\Debug\EF DENEME.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\obj\Debug\EF DENEME.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\obj\Debug\EF DENEME.csproj.CopyComplete
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\obj\Debug\EF DENEME.exe
+C:\Users\ACER\source\repos\EF DENEME\EF DENEME\obj\Debug\EF DENEME.pdb

@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Entity FrameWork Form\Entity FrameWork Form\bin\Debug\Entity FrameWork Form.exe.config
+C:\Users\ACER\source\repos\Entity FrameWork Form\Entity FrameWork Form\bin\Debug\Entity FrameWork Form.exe
+C:\Users\ACER\source\repos\Entity FrameWork Form\Entity FrameWork Form\bin\Debug\Entity FrameWork Form.pdb
+C:\Users\ACER\source\repos\Entity FrameWork Form\Entity FrameWork Form\bin\Debug\EntityFramework.dll
+C:\Users\ACER\source\repos\Entity FrameWork Form\Entity FrameWork Form\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\source\repos\Entity FrameWork Form\Entity FrameWork Form\bin\Debug\EntityFramework.xml
+C:\Users\ACER\source\repos\Entity FrameWork Form\Entity FrameWork Form\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\source\repos\Entity FrameWork Form\Entity FrameWork Form\obj\Debug\Entity FrameWork Form.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Entity FrameWork Form\Entity FrameWork Form\obj\Debug\Entity_FrameWork_Form.Form1.resources
+C:\Users\ACER\source\repos\Entity FrameWork Form\Entity FrameWork Form\obj\Debug\Entity_FrameWork_Form.Properties.Resources.resources
+C:\Users\ACER\source\repos\Entity FrameWork Form\Entity FrameWork Form\obj\Debug\Entity FrameWork Form.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Entity FrameWork Form\Entity FrameWork Form\obj\Debug\Entity FrameWork Form.csproj.CopyComplete
+C:\Users\ACER\source\repos\Entity FrameWork Form\Entity FrameWork Form\obj\Debug\Entity FrameWork Form.exe
+C:\Users\ACER\source\repos\Entity FrameWork Form\Entity FrameWork Form\obj\Debug\Entity FrameWork Form.pdb
